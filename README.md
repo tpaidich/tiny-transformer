@@ -15,8 +15,5 @@ To visualize attention:
 python -i visualize.py
 >>> visualize_attention("this movie is great")
 ```
-
 ---
-=======
-# tiny-transformer
->>>>>>> 225981fe6a7dc223738108eaabddb7ef877d7b9f
+
