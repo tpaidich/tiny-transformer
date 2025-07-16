@@ -1,2 +1,6 @@
 torch
 matplotlib
+nltk
+torchtext==0.18.0
+pandas
+scikit-learn
