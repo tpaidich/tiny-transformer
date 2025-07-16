@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _# tiny-transformer-demo
 A tiny Transformer encoder built from scratch using PyTorch. This model performs simple text classification (positive vs. negative sentiment) using a toy dataset of character-level inputs. It includes attention visualizations.
 
@@ -15,3 +16,6 @@ python -i visualize.py
 ```
 
 ---
+=======
+# tiny-transformer
+>>>>>>> 225981fe6a7dc223738108eaabddb7ef877d7b9f
