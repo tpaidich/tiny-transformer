@@ -1,6 +1,6 @@
 # Tiny Transformer
 
-A minimal Transformer encoder built from scratch in PyTorch — designed to demystify how attention works. This project includes training on real sentiment data and visualizing learned attention patterns across layers.
+A minimal Transformer encoder built from scratch in PyTorch — designed to break down how attention works. This project includes training on real sentiment data and visualizing learned attention patterns across layers.
 
 - Custom Self-Attention Layer
 - Multi-layer Encoder with LayerNorm and Feedforward blocks
