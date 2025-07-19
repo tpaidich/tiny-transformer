@@ -1,4 +1,4 @@
-# Tiny Transformer
+# Tiny Transformer - Sentiment Classifier with Attention Visualization
 
 A minimal Transformer encoder built from scratch in PyTorch — designed to break down how attention works. This project includes training on real sentiment data and visualizing learned attention patterns across layers.
 
